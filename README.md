@@ -2,24 +2,12 @@
 <h3 align="center">🌱 Full-Stack Web Developer | MERN Stack Developer | 📚 Learning by building real-world projects using React, Node.js, Express & MongoDB.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soudip-panja&label=Profile%20views&color=0e75b6&style=flat" alt="soudip-panja" /> </p>
-
-- 🛒 eCommerce Website [Quick Cart](https://quick-cart-e-commerce-ten.vercel.app/)
-
-- 🌱 I’m currently learning **JWT, Tailwind CSS, Redux, Python, MySQL**
-
-- 👨🏻‍💼CRM App [Zervia CRM App](https://zervia-crm-app.vercel.app/)
-
-- 👨‍💻 All of my projects are available at [https://soudip-portfolio.vercel.app/](https://soudip-portfolio.vercel.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@soudip03panja](https://medium.com/@soudip03panja)
-
-- 💬 Ask me about **HTML, Bootstrap, CSS, Vanilla JavaScript, React, MongoDB, Node.js, Express.js, RESTful API**
-
-- 📫 How to reach me **soudip03panja@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZNzBddWxgccW9x-Qx3D_6tEVrAo3azQM/view](https://drive.google.com/file/d/1ZNzBddWxgccW9x-Qx3D_6tEVrAo3azQM/view)
-
-- ⚡ Fun fact **I am Tech Enthusiast a**
+# 👨‍💻 About Me:
+- 🚀 Aspiring **Full Stack Developer** eager to build modern and user-friendly web applications.  
+- 💡 Enthusiastic about learning new technologies and applying them to solve real-world problems.  
+- 📚 Currently improving my skills in **JavaScript, React, Express.js, and MongoDB**.  
+- 🤝 Open to collaborating on beginner-friendly **open-source projects** and learning from the developer community.  
+- 🎯 Goal: To kickstart my career as a developer and contribute to impactful projects while growing my expertise.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
