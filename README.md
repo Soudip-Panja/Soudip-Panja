@@ -2,6 +2,7 @@
 <h3 align="center">🌱 Full-Stack Web Developer | MERN Stack Developer | 📚 Learning by building real-world projects using React, Node.js, Express & MongoDB.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soudip-panja&label=Profile%20views&color=0e75b6&style=flat" alt="soudip-panja" /> </p>
+
 # 👨‍💻 About Me:
 - 🚀 Aspiring **Full Stack Developer** eager to build modern and user-friendly web applications.  
 - 💡 Enthusiastic about learning new technologies and applying them to solve real-world problems.  
