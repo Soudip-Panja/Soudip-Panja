@@ -1,14 +1,21 @@
-<h1 align="center">Hi 👋, I'm SOUDIP PANJA</h1>
-<h3 align="center">🌱 Full-Stack Web Developer | MERN Stack Developer | 📚 Learning by building real-world projects using React, Node.js, Express & MongoDB.</h3>
+<h1 align="center">Hi 👋, I'm Soudip Panja</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soudip-panja&label=Profile%20views&color=0e75b6&style=flat" alt="soudip-panja" /> </p>
+<h3 align="center">
+🌱 I build scalable, production-ready web applications using the MERN stack, 
+with a strong focus on clean code, real-world problem solving, and reliable end-to-end solutions. 🌱
+</h3>
 
-# 👨‍💻 About Me:
-- 🚀 Aspiring **Full Stack Developer** eager to build modern and user-friendly web applications.  
-- 💡 Enthusiastic about learning new technologies and applying them to solve real-world problems.  
-- 📚 Currently improving my skills in **JavaScript, React, Express.js, and MongoDB**.  
-- 🤝 Open to collaborating on beginner-friendly **open-source projects** and learning from the developer community.  
-- 🎯 Goal: To kickstart my career as a developer and contribute to impactful projects while growing my expertise.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=soudip-panja&label=Profile%20views&color=0e75b6&style=flat" alt="soudip-panja" />
+</p>
+
+## 👨‍💻 About Me:
+- 🚀 **Full Stack Developer** focused on building modern, user-centric, and scalable web applications.
+- 🧠 Strong foundation in **JavaScript, React, Node.js, Express, and MongoDB**, with hands-on experience in real-world projects.
+- 🛠️ Detail-oriented developer who values **clean, maintainable, and scalable code** while solving practical problems.
+- 🤝 Open to collaborating on impactful projects, contributing to open source, and learning from experienced developers.
+- 🎯 Career Goal: To grow as a professional software developer while contributing to production-grade applications.
+
   
 ## 🌐 Connect With Me:
 
